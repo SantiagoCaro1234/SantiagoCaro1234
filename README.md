@@ -53,10 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SantiagoCaro1234/SantiagoCaro1234/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/SantiagoCaro1234/count.svg?"  />
 </div>
